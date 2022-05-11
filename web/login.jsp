@@ -8,6 +8,17 @@
 	 
 </head>
 <body>
+    <div class="menu_bar">
+        <<h1 class="logo">Tecnologico de<span>Antioquia</span></h1>
+        
+        <<ul>
+            <li><a href="#">Contacto</a></li>
+            <li><a href="#">Nuestra U</a></li>
+            <li><a href="#">Programas academicos</a></li>
+        </ul>
+
+    </div>
+     
  <h1>Formulario de registro</h1>
  <form action="registro.php" method="post" class="form-register" onsubmit="return validar();">
  	<h2 class="form__titulo">Crea una cuenta</h2>
