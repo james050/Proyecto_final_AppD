@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url(menu.css);
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	font-family: sans-serif;
+	background: #F5F5F5;
+}
+
+h1{
+	color: #fff;
+	text-align: center;
+}
+
+.form-register{
+	width: 98%;
+	max-width: 500px;
+	margin: auto;
+	background:  #FFFFE0;
+	border-radius: 10px;
+}
+
+.form__titulo{
+	background: green;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	font-weight: 100;
+	font-size: 30px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom: 5px solid #FFD700;
+}
+.contenedor-inputs{
+	padding: 10px 30px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between; /*para que nos de un espacio entre los inputs del formulario*/
+}
+input{
+	margin-bottom: 15px;
+	padding: 15px;
+	font-size: 16px;
+	border-radius: 3px;
+	border:1px solid darkgreen; /*Para darle un color a los border de las casillas*/
+}
+.input-48{
+	width: 48%;
+}
+.input-100{
+	width: 100%;
+}
+.btn-enviar{
+	background: green;
+	color: #fff;
+	margin: auto;
+	padding: 10px 40px;
+	cursor: pointer;
+	font-size:20px;
+
+}
+.btn-enviar active{
+	transform: scale(1.10); /*Para que cuando le demos click al boton se ponga más grande*/
+    
+}
+.form__link{
+	width: 100%;
+	margin:7px;
+	text-align: center;
+	font-size: 14px;
+}
+
+
+
+.caja{
+	width: 60%;
+	height:50%;
+	margin-top:8%;
+	margin-bottom: 2%;
+	background-color: green;
+	padding:60px;
+	border-radius:5%;
+}
+.caja-2{
+    padding: 30px;
+    border-color:black;
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.texto{
+	color: white;
+	text-align: center;
+}
+
+.espacio{
+	margin: 1px;
+}
+
+
+
+
+
+
+
+
+
