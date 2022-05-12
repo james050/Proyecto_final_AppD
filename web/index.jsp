@@ -28,8 +28,11 @@
 			<span class="btn_menu">
 				<i class="fas fa-align-justify"></i>
 			</span>
-
-			<label class="logo">TdeA</label>
+                                                            &nbsp
+                                                            &nbsp
+                                                            &nbsp
+                                     <img src="img/logo.png" height="60px" width="60px" />
+                                     <label class="logo">TdeA  </label>
 
 
 
@@ -40,7 +43,8 @@
 
 
 		<div class="caja">
-			<h2 class="texto">Gestión consulta base de datos Tdea</h2>
+			<h2 class="texto">Gestión consulta base de datos TdeA</h2>
+                        <br>
                                             <div class="caja-2">
 			<div class="row row-cols-1 row-cols-md-2 row-cols-md-3 g-6">
 				<div class="card mb-3" style="max-width: 540px;">
@@ -51,11 +55,11 @@
 							</div>
 						</div>
 						<div class="col-md-4">
-							<img src="..." class="img-fluid rounded-start" alt="...">
+							<img src="img/facultades.jpg" class="img-fluid rounded-start" alt="...">
 						</div>
 					</div>
 				</div>
-				<div class="card mb-3" style="max-width: 540px;">
+				<div class="card mb-3" style="max-width: 540px; ">
 					<div class="row g-0">
 						<div class="col-md-8">
 							<div class="card-body">
@@ -63,11 +67,11 @@
 							</div>
 						</div>
 						<div class="col-md-4">
-							<img src="..." class="img-fluid rounded-start" alt="...">
+							<img src="img/programas.jpg" class="img-fluid rounded-start" alt="...">
 						</div>
 					</div>
 				</div>
-				<div class="card mb-3" style="max-width: 540px;">
+				<div class="card mb-3" style="max-width: 540px; ">
 					<div class="row g-0">
 						<div class="col-md-8">
 							<div class="card-body">
@@ -75,7 +79,7 @@
 							</div>
 						</div>
 						<div class="col-md-4">
-							<img src="..." class="img-fluid rounded-start" alt="...">
+							<img src="img/estudiantes.jpg" class="img-fluid rounded-start" alt="...">
 						</div>
 					</div>
 				</div>
@@ -87,11 +91,11 @@
 							</div>
 						</div>
 						<div class="col-md-4">
-							<img src="..." class="img-fluid rounded-start" alt="...">
+							<img src="img/docentes.jpg" class="img-fluid rounded-start" alt="...">
 						</div>
 					</div>
 				</div>
-				<div class="card mb-3" style="max-width: 540px;">
+				<div class="card mb-3" style="max-width: 540px; ">
 					<div class="row g-0">
 						<div class="col-md-8">
 							<div class="card-body">
@@ -99,11 +103,11 @@
 							</div>
 						</div>
 						<div class="col-md-4">
-							<img src="..." class="img-fluid rounded-start" alt="...">
+							<img src="img/asignaturas.jpg" class="img-fluid rounded-start" alt="...">
 						</div>
 					</div>
 				</div>
-				<div class="card mb-3" style="max-width: 540px;">
+				<div class="card mb-3" style="max-width: 540px; ">
 					<div class="row g-0">
 						<div class="col-md-8">
 							<div class="card-body">
@@ -111,7 +115,7 @@
 							</div>
 						</div>
 						<div class="col-md-4">
-							<img src="..." class="img-fluid rounded-start" alt="...">
+							<img src="img/matriculas.jpg" class="img-fluid rounded-start" alt="...">
 						</div>
 					</div>
 				</div>
@@ -120,16 +124,23 @@
 		</div>
                 </div>
 
+</div>
+		
 
-		<!----------------------------------------->
-
-
+                <br>
+                
 		<footer class="footer">
-
-			<p class="copy">&copy; Aplicaciones distribuidas 2022 - Todos los derechos reservados</p>
+                                                             <img src="img/logo.png" height="60px" width="60px" />
+                                                             TdeA  <i><small>"Ser, hacer, transformar"</small></i>
+                                                             <br>
+                                                              <br>
+                                                                 
+                                                            <p class="copy">&copy; Universidad TdeA 2022- Todos los derechos reservados.</p>
+                                                         
+                                                             
 		</footer>
 
-	</div>
+	
 
 
 	<script src="js/jquery-3.6.0.js" type="text/javascript"> </script>
